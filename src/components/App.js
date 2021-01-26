@@ -1,14 +1,19 @@
-// dependencies:
-import React from "react";
-// child components:
-// styles:
-import "./app.scss";
-// component:
-const App = ({ count, handleIncrementClick, handleDecrementClick }) => (
-    <>
-        <h1>{"hello world! " + count}</h1>
-        <button onClick={handleIncrementClick}>Increment</button>
-        <button onClick={handleDecrementClick}>Decrement</button>
-    </>
-);
-export default App;
+//dependencies:
+import { connect } from "react-redux";
+// view element:
+import App from "./App-view";
+// actions:
+const mapStateToProps = (state) => {
+    return {
+        count: state.count,
+    };
+};
+const mapDispatchToProps = (dispatch) => {
+    return {
+        handleIncrementClick: () => dispatch({ type: "INCREMENT" }),
+        handleDecrementClick: () => dispatch({ type: "DECREMENT" }),
+    };
+};
+// container:
+const Container = connect(mapStateToProps, mapDispatchToProps)(App);
+export default Container;
