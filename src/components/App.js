@@ -4,15 +4,10 @@ import { connect } from "react-redux";
 import App from "./App-view";
 // actions:
 const mapStateToProps = (state) => {
-    return {
-        count: state.count,
-    };
+    return {};
 };
 const mapDispatchToProps = (dispatch) => {
-    return {
-        handleIncrementClick: () => dispatch({ type: "INCREMENT" }),
-        handleDecrementClick: () => dispatch({ type: "DECREMENT" }),
-    };
+    return {};
 };
 // container:
 const Container = connect(mapStateToProps, mapDispatchToProps)(App);

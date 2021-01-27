@@ -1,12 +1,15 @@
 // dependencies:
 import React from "react";
+import Router, { Route } from "react-router";
 // child components:
 // component:
-const App = ({ count, handleIncrementClick, handleDecrementClick }) => (
-    <>
-        <h1>{"hello world! " + count}</h1>
-        <button onClick={handleIncrementClick}>Increment</button>
-        <button onClick={handleDecrementClick}>Decrement</button>
-    </>
+const App = () => (
+    <Router>
+        <Route path="/" component={Home}/>
+        <Route path="/logowanie"/>
+        <Route path="/rejestracja"/>
+        <Route path="/wylogowano"/>
+        <Route path="/panel"/>
+    </Router>
 );
 export default App;
