@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1858" height="946" viewBox="0 0 1858 946">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="253" height="33" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Register">
+      <rect width="1858" height="946"/>
+    </clipPath>
+  </defs>
+  <g id="Register" clip-path="url(#clip-Register)">
+    <rect width="1858" height="946" fill="#fff"/>
+    <g id="Title" transform="translate(-1.5 -36)">
+      <g id="Decoration" transform="translate(804 362)" clip-path="url(#clip-path)">
+        <path id="Path_40" data-name="Path 40" d="M160.967,106.2l8.965-8.732-8.965-8.732-8.955,8.732,8.965,8.732" transform="translate(-34.472 -78.774)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.788"/>
+        <path id="Path_41" data-name="Path 41" d="M160.967,97.469l8.965-8.732-8.965-8.732-8.955,8.732Z" transform="translate(-34.472 -78.757)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.788"/>
+        <line id="Line_17" data-name="Line 17" x1="98.316" transform="translate(0.906 17.154)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.811"/>
+        <path id="Path_42" data-name="Path 42" d="M188.708,95.919l-5.638,5.491L172.016,90.645l2.155-2.1,4.679,4.558-4.679,4.558-13.21-12.866-13.19,12.866L143.093,93.1l4.679-4.558,2.155,2.1-11.053,10.766-5.638-5.491" transform="translate(-34.472 -78.757)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.788"/>
+        <line id="Line_18" data-name="Line 18" x1="98.316" transform="translate(153.778 17.154)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.811"/>
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="7.344" height="7.153" transform="translate(121.307 26.678) rotate(-45)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.788"/>
+        <path id="Path_43" data-name="Path 43" d="M192.834,100.733h-4.3l-5.428-5.287-9.673,9.422-12.464-12.14-12.464,12.14-9.673-9.422-5.428,5.287h-4.3" transform="translate(-34.472 -78.768)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.788"/>
+      </g>
+      <text id="Załóż_konto" data-name="Załóż konto" transform="translate(929 325)" fill="#3c3c3c" font-size="40" font-family="OpenSans, Open Sans" letter-spacing="-0.02em"><tspan x="-104.389" y="0">Załóż konto</tspan></text>
+    </g>
+    <g id="Form" transform="translate(66 -9)">
+      <g id="Inputs" transform="translate(671 428)">
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="384" height="328" fill="#f0f1f1"/>
+        <g id="Email" transform="translate(67.25 40)">
+          <text id="Label" transform="translate(42 17)" fill="#3c3c3c" font-size="16" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-42.43" y="0">Email</tspan></text>
+          <line id="Line" x2="250" transform="translate(0 62)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+        <g id="Password" transform="translate(67.25 133)">
+          <text id="Label-2" data-name="Label" transform="translate(44 17)" fill="#3c3c3c" font-size="16" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-43.578" y="0">Hasło</tspan></text>
+          <line id="Line-2" data-name="Line" x2="250" transform="translate(0 62)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+        <g id="Password_2" data-name="Password 2" transform="translate(67.25 226)">
+          <text id="Label-3" data-name="Label" transform="translate(108.75 18)" fill="#3c3c3c" font-size="16" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-109.172" y="0">Powtórz hasło</tspan></text>
+          <line id="Line-3" data-name="Line" x2="250" transform="translate(0 62)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Register-2" data-name="Register" transform="translate(380 -839)">
+        <text id="Załóż_konto-2" data-name="Załóż konto" transform="translate(242.211 1667)" font-size="18" font-family="OpenSans-Light, Open Sans" font-weight="300"><tspan x="0" y="0">Zaloguj się</tspan></text>
+      </g>
+      <g id="Login" transform="translate(774 -839)">
+        <g id="Rectangle" transform="translate(230 1635)" fill="none" stroke="#3c3c3c" stroke-width="0.75">
+          <rect width="117" height="50" stroke="none"/>
+          <rect x="0.375" y="0.375" width="116.25" height="49.25" fill="none"/>
+        </g>
+        <text id="Zaloguj_się" data-name="Zaloguj się" transform="translate(242 1667)" font-size="18" font-family="OpenSans-Light, Open Sans" font-weight="300"><tspan x="0" y="0">Załóż konto</tspan></text>
+      </g>
+    </g>
+    <g id="Top_Menu" data-name="Top Menu" transform="translate(1036 37)">
+      <g id="Login_Register" data-name="Login &amp; Register" transform="translate(525)">
+        <g id="Register-3" data-name="Register" transform="translate(68)">
+          <g id="Rectangle_19_kopia_5" data-name="Rectangle 19 kopia 5" fill="none" stroke="#fad648" stroke-width="0.75">
+            <rect width="90" height="36" stroke="none"/>
+            <rect x="0.375" y="0.375" width="89.25" height="35.25" fill="none"/>
+          </g>
+          <text id="Załóż_konto-3" data-name="Załóż konto" transform="translate(80 23)" fill="#737373" font-size="13" font-family="OpenSans, Open Sans"><tspan x="-70.453" y="0">Załóż konto</tspan></text>
+        </g>
+        <text id="Login-2" data-name="Login" transform="translate(48 24)" fill="#737373" font-size="14" font-family="OpenSans, Open Sans"><tspan x="-47.578" y="0">Zaloguj</tspan></text>
+      </g>
+      <g id="Navigation" transform="translate(0 53)">
+        <text id="Start" transform="translate(20 28)" fill="#3c3c3c" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Start</tspan></text>
+        <text id="O_co_chodzi_" data-name="O co chodzi?" transform="translate(115 28)" fill="#3c3c3c" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="0">O co chodzi?</tspan></text>
+        <text id="O_nas" data-name="O nas" transform="translate(275 28)" fill="#3c3c3c" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="0">O nas</tspan></text>
+        <text id="Fundacja_i_organizacje" data-name="Fundacja i organizacje" transform="translate(378 28)" fill="#3c3c3c" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Fundacja i organizacje</tspan></text>
+        <text id="Kontakt" transform="translate(618 28)" fill="#3c3c3c" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Kontakt</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,17 +1,19 @@
 * {
     box-sizing: border-box;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Rubik", sans-serif;
 }
 
 body {
     font-family: $font-base;
+    width: 100vw;
 }
 
 .container {
-    width: 1200px;
-}
-
-.wrap {
+    padding-right: 142px;
+    width: 100vw;
     overflow: hidden;
-    max-width: 100vw;
+
+    @media (max-width: 970px) {
+        padding-right: 15%;
+    }
 }
