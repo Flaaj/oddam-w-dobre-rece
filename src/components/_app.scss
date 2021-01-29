@@ -8,11 +8,6 @@ body {
 }
 
 .container {
-    padding-right: 142px;
     width: 100vw;
     overflow: hidden;
-
-    @media (max-width: 970px) {
-        padding-right: 15%;
-    }
 }

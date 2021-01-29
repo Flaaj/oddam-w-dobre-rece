@@ -11,7 +11,7 @@ const ButtonRow = () => (
 );
 const Header = () => {
     return (
-        <div className="header container">
+        <section className="header container">
             <div className="header__menu">
                 <ul className="header__authorization">
                     <li className="header__login">
@@ -69,7 +69,7 @@ const Header = () => {
                     <Button text="Zorganizuj zbiorkę"/>
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 
