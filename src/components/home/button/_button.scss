@@ -1,5 +1,16 @@
 .button {
-    width: 300px;
-    height: 100px;
+    width: 310px;
+    height: 120px;
     border: 1px solid #3c3c3c;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 30px;
+    font-size: 38px;
+    font-weight: 300;
+    a {
+        text-decoration: none;
+        color: black;
+    }
 }

@@ -85,4 +85,35 @@
             color: #6f6f6f;
         }
     }
+
+    &__decorated-heading {
+        height: 200px;
+        width: 670px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        float: right;
+        font-size: 38px;
+        text-align: center;
+        margin-right: 133px;
+        margin-top: 210px;
+    }
+
+    &__heading {
+        span {
+            display: block;
+        }
+    }
+
+    &__decoration {
+        margin-top: 25px;
+    }
+
+    &__buttons {
+        margin-top: 65px;
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+    }
 }

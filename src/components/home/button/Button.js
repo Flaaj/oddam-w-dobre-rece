@@ -1,16 +1,16 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
-const Button = ({ text, isClickable = false }) => {
+const Button = ({ text, href }) => {
     return (
         <div className="button">
-            {isClickable ? (
-                <Link className="button__link" href={href}>
-                    { text }
+            {href ? (
+                <Link className="button__link" to={href}>
+                    {text}
                 </Link>
             ) : (
-                    { text }
-                )}
+                <a href="">{ text }</a>
+            )}
         </div>
     );
 };
